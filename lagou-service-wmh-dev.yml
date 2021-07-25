@@ -1,7 +1,7 @@
 lagou:
-  message: I am Chinese!
+  message: I am Chinese.
 
 mysql:
-  url: 11111
+  url: dev-http://localhost:3306/ch01_data
   user: root
   password: root1234
