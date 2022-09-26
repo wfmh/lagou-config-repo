@@ -4,4 +4,4 @@ lagou:
 mysql:
   url: dev-http://localhost:3306/ch01_data
   user: root
-  password: root1234
+  password: gavin0000102312
