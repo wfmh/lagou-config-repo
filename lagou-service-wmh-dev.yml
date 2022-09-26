@@ -1,5 +1,5 @@
 lagou:
-  message: I am Chinese.
+  message: I'm from Shanghai.
 
 mysql:
   url: dev-http://localhost:3306/ch01_data
